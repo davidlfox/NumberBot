@@ -1,0 +1,11 @@
+﻿{
+	"name": "RealTimeWebChat",
+	"version": "0.0.0",
+	"description": "a generic chat example",
+	"dependencies": {
+		"socket.io": "latest",
+		"express": "latest", 
+		"jade": "latest"
+	},
+	"author": "david fox"
+}
